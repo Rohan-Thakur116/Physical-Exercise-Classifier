@@ -1,0 +1,2 @@
+python ADASYN.py
+pause
